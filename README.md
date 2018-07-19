@@ -1,7 +1,9 @@
-## Classify the category of student's using Kaggle: Student's Academic Performance Dataset
+# Research Work
 
-Kernel [link](https://www.kaggle.com/nasirislamsujan/an-eda-with-different-ml-classifiers)
+```
+This repo contains all the research related works
+```
 
-Dataset [link](https://www.kaggle.com/aljarah/xAPI-Edu-Data)
+EDA Kernel [link](https://www.kaggle.com/nasirislamsujan/an-eda-with-different-ml-classifiers)
 
 #### Final Accuracy Score: 0.834 :robot:
