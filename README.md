@@ -12,5 +12,5 @@ This repo contains all of my research related works
 * A very first introduction to [Tensorflow](https://www.kaggle.com/nasirislamsujan/a-very-first-introduction-with-tensorflow)
 * My first project in Tensorflow [Sonar rock vs mine](https://colab.research.google.com/drive/1rN9rUP8SYZEZToZpI4ezsluPNJDNaOTd)
 * Outliers Detection and Removing [examples](https://colab.research.google.com/drive/1LTf6J_WnF3Mps6a8PZdgFxDLflaPmXCu)
-* Customer Churn Prediction using ML and DL approach: [view project](https://colab.research.google.com/drive/1bgwZa_B2k78MvBq-u6ool3LFr8fsV4eI)
+* Employee Churn Prediction using ML and DL approach: [view project](https://colab.research.google.com/drive/1bgwZa_B2k78MvBq-u6ool3LFr8fsV4eI)
    * Final Accuracy: __89.57%__ :robot: 
