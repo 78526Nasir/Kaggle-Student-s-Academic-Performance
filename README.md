@@ -14,3 +14,17 @@ This repo contains all of my research related works
 * Outliers Detection and Removing [examples](https://colab.research.google.com/drive/1LTf6J_WnF3Mps6a8PZdgFxDLflaPmXCu)
 * Employee Churn Prediction using ML and DL approach: [view project](https://colab.research.google.com/drive/1bgwZa_B2k78MvBq-u6ool3LFr8fsV4eI)
    * Final Accuracy: __89.57%__ :robot: 
+* A Better version of CSC(Classify Student's Category) [Project](https://colab.research.google.com/drive/1Onx3jyQXMls_c2a-rwRENORLf9XiQPzB)
+   * Accuracy with ML classifiers
+      * With Reduced feature, final accuracy: __78%__
+      * With Optimum feature, final accuracy: __84.3%__
+      * After scaling and oversampling, final accuracy: __88.42%__
+   * Accuracy with DL classifier
+      * Training Accuracy with Optimum feature: __98.14%__
+      * Testing Accuracy with Optimum feature: __85.41%__
+
+
+## Licence & Copyright 
+This project is LICENCE under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<a href="https://github.com/78526Nasir">Nasir Islam Sujan</a> &copy; 2018
