@@ -1,7 +1,7 @@
 # Research Work 
 
 ```
-This repo contains all of my research related works
+This repository contains all of my research related works and activity
 ```
 
 * An EDA to Classify students category
