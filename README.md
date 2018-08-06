@@ -23,7 +23,7 @@ This repository contains all of my research related works and activity
       * Training Accuracy with Optimum feature: __98.14%__
       * Testing Accuracy with Optimum feature: __85.41%__
 
-
+* Predicting Diabetes using [Neural Network](https://colab.research.google.com/drive/1i-WoEiLPVudSQ-IVf0LtlwRPfVaaWqeg)
 ## Licence & Copyright 
 This project is LICENCE under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
