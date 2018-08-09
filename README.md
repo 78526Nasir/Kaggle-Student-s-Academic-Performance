@@ -26,7 +26,7 @@ This repository contains all of my research related works and activity
 * Predicting Diabetes using Neural Network: [view in CoLab](https://colab.research.google.com/drive/1i-WoEiLPVudSQ-IVf0LtlwRPfVaaWqeg)
 * A case study on Banknotes Authentication: [view in CoLab](https://colab.research.google.com/drive/1y2LCiR67xsV2mo3B2fegQHLYpuJ4wIM8)
 * An EDA on Deng.AI project (Preventing the Spread of Dengue Fever): [view in CoLab](https://colab.research.google.com/drive/173Vl3FmmEGjIcswPJ1setAE8fWuWDnOk)
-   * Training Accuracy: 92%
+   * Training Accuracy: __92%__
 
 
 
