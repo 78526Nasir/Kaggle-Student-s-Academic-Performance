@@ -27,7 +27,7 @@ This repository contains all of my research related works and activity
 * A case study on Banknotes Authentication: [view in CoLab](https://colab.research.google.com/drive/1y2LCiR67xsV2mo3B2fegQHLYpuJ4wIM8)
 * An EDA on Deng.AI project (Preventing the Spread of Dengue Fever): [view in CoLab](https://colab.research.google.com/drive/173Vl3FmmEGjIcswPJ1setAE8fWuWDnOk)
    * Training Accuracy: __92%__
-
+* An EDA on Lower Back Pain Symptoms Dataset: View in [Kaggle](https://www.kaggle.com/nasirislamsujan/exploratory-data-analysis-lower-back-pain?scriptVersionId=5480406), [Colab](https://colab.research.google.com/drive/1m4ZOmii2y9W8YfsWow7wLN3K8Ia84j9Y)
 
 
 ## Licence & Copyright 
